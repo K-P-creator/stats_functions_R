@@ -13,6 +13,8 @@ source("functions.r")
 
 to add the functions to your current instance of R studio. 
 
+Some documentation is AI generated so proceed with skepticism
+
 ## Functions
 
 - **t_stat**: Computes the t-statistic for a sample mean versus a population mean.
