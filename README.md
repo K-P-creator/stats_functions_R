@@ -13,7 +13,7 @@ source("functions.r")
 
 to add the functions to your current instance of R studio. 
 
-Some documentation is AI generated so proceed with skepticism
+The following functions summary is AI generated so proceed with skepticism
 
 ## Functions
 
